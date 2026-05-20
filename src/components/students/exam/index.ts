@@ -1,0 +1,11 @@
+export { default as ExamStatStudent } from "./ExamStatStudent";
+export { default as ExamOverviewStudent } from "./ExamOverviewStudent";
+export { default as UpcomingExamsStudent } from "./UpcomingExamsStudent";
+export { default as ExamResultStudent } from "./ExamResultStudent";
+export { default as RecentExam } from "./RecentExam";
+export { default as RecentExamResult } from "./RecentExamResult";
+export { default as ViewExam } from "./ViewExam";
+export { default as ExamBasicInstruction } from "./ExamBasicInstruction";
+export { default as QuestionAnswerPage } from "./QuestionAnswerPage";
+export { default as ExamInstruction } from "./ExamInstruction";
+export { default as ExamThankYouPage } from "./ExamThankYouPage";

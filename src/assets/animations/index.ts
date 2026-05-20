@@ -1,0 +1,11 @@
+export { default as ANNOUNCEMENT } from "./announcement.json";
+export { default as BOOK } from "./book.json";
+export { default as CLOUDUPLOAD } from "./cloud-upload.json";
+export { default as CONTACTLOTTIE } from "./contactLottie.json";
+export { default as NOTIFICATION } from "./notification.json";
+export { default as PAGENOTFOUND } from "./pageNotFound.json";
+export { default as PDF } from "./pdf.json";
+export { default as SUPPORT } from "./support.json";
+export { default as UPLOAD } from "./upload.json";
+export { default as EMPTY } from "./empty.json";
+export { default as FEE } from "./fee.json";

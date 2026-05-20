@@ -1,0 +1,10 @@
+export { default as DepartmentSkeleton } from "./DepartmentSkeleton";
+export { default as DriverSkeleton } from "./DriverSkeleton";
+export { default as FeeSkeleton } from "./FeeSkeleton";
+export { default as FinanceSkeleton } from "./FinanceSkeleton";
+export { default as MaterialSkeleton } from "./MaterialSkeleton";
+export { default as NoticeSkeleton } from "./NoticeSkeleton";
+export { default as PaymentSkeleton } from "./PaymentSkeleton";
+export { default as ScheduleExamSkeleton } from "./ScheduleExamSkeleton";
+export { default as StudentSkeleton } from "./StudentSkeleton";
+export { default as ProjectSkeleton } from "./ProjectSkeleton";

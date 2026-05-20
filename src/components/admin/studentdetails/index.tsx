@@ -1,0 +1,11 @@
+export { default as StudentDetails } from "./StudentDetails";
+export { default as PaymentDetails } from "./PaymentDetails";
+export { default as Transactions } from "./Transactions";
+export { default as StudentFees } from "./StudentFees";
+export { default as Attendance } from "./Attendance";
+export { default as CalenderAttendance } from "./CalenderAttendance";
+export { default as StudentExam } from "./StudentExam";
+export { default as StudentAssignment } from "./StudentAssignment";
+export { default as EditStudentDrawer } from "./EditStudentDrawer";
+export { default as StaffTransactions } from "./StaffTransactions";
+export { default as StudentProfile } from "./StudentProfile";

@@ -1,0 +1,11 @@
+export { default as ApplyLoginForm } from "./ApplyLoginForm";
+export { default as InstructionSection } from "./InstructionsSection";
+export { default as ApplyRegisterForm } from "./ApplyRegisterForm";
+export { default as CardContent } from "./CardContent";
+export { default as ProgrammeDetails } from "./ProgrammeDetails";
+export { default as Payment } from "./Payment";
+export { default as ParentDetails } from "./ParentDetails";
+export { default as EducationalDetails } from "./EducationalDetails";
+export { default as DocumentDetails } from "./DocumentDetails";
+export { default as AddressDetails } from "./AddressDetails";
+export { default as ApplyForgotPassword } from "./ApplyForgotPassword";

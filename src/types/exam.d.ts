@@ -1,0 +1,34 @@
+interface ExamType {
+  _id: string;
+  type: "OFFLINE" | "ONLINE";
+  title: string;
+  description: string;
+  batch: any;
+  startDate: string;
+  endDate: string;
+  showOneItemPerPage: boolean;
+  allowStudentToMoveFreely: boolean;
+  randomizeQuestionOrder: boolean;
+  allowBlankSubmit: boolean;
+  negativeMarking: boolean;
+  negativeMark: number;
+  disableRightClick: boolean;
+  disableCopyPaste: boolean;
+  disableDisplayTranslate: boolean;
+  disableAutocomplete: boolean;
+  disableSpellCheck: boolean;
+  disablePrinting: boolean;
+  conclusionText: string;
+  showExamScoreAfterEnd: boolean;
+  showExamResponseAfterEnd: boolean;
+  showExamCorrectAnswerAfterEnd: boolean;
+  showExamExplanationAfterEnd: boolean;
+  subjects: Array;
+  disableNewTab: boolean;
+  disableNewWindow: boolean;
+  resultPublished: boolean;
+  isOnlineExam: boolean;
+  totalStudent: number;
+  totalMark: number;
+}
+export default ExamType;

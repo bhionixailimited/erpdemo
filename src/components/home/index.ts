@@ -1,0 +1,13 @@
+export { default as Hero } from "./Hero";
+export { default as Features } from "./Features";
+export { default as Faq } from "./Faq";
+export { default as OurClient } from "./OurClient";
+export { default as Reviews } from "./Reviews";
+export { default as ReviewBox } from "./ReviewBox";
+export { default as BannerHero } from "./BannerHero";
+export { default as Solutions } from "./Solutions";
+export { default as WhyUs } from "./WhyUs";
+export { default as CompleteWork } from "./CompletedWork";
+export { default as AboutUs } from "./AboutUs";
+export { default as ResponsiveSolution } from "./ResponsiveSolution";
+export { default as ContactUs } from "./ContactUs";
