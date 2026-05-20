@@ -7,7 +7,7 @@ const CallPage = () => {
     <div>
       <Head>
         <title>LMS | Student </title>
-        <link rel="icon" href="/favicon.png" type="image/png" />
+        <link rel="icon" href="/newfavicon.png" type="image/png" />
       </Head>
       <main className="w-full">
         <CallView />

@@ -31,7 +31,7 @@ export default function CommonLayout({ children }: Props) {
           <link
             rel="icon"
             href={`${
-              process.env.NEXT_PUBLIC_FIREBASE_FAVICON_URL || `/favicon.png`
+              process.env.NEXT_PUBLIC_FIREBASE_FAVICON_URL || `/newfavicon.png`
             }`}
             type="image/png"
           />
