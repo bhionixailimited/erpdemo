@@ -88,7 +88,7 @@ const ForgotPassword = () => {
           ) : data?.data?.logoUrl ? (
             <img src={data?.data?.logoUrl} alt="" className="w-1/3" />
           ) : (
-            <img src=/newlogo.png alt="" className="w-1/3" />
+            <img src="/newlogo.png" alt="" className="w-1/3" />
           )}
         </div>
         <div className="py-4">
